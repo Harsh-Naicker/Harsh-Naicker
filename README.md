@@ -13,7 +13,7 @@
 - R
 - Javascript
 # Skills
-![Skills](/assets/Github-Skills.png)
+![Skills](/assets/Github-Skills.png | width=500)
 
 <!--
 **Harsh-Naicker/Harsh-Naicker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
