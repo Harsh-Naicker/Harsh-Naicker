@@ -1,18 +1,18 @@
 ![Banner](/assets/Github-Banner.png)
 ## Upcoming Software Developer @WorkIndia
-## Previous roles
+## Previous Roles
 - Summer Undergraduate Research Intern @NYU Tandon School of Engineering
 - React Native Developer @Point Zero Solutions
 - Artificial Intelligence Intern @JumpStartNinja Technologies
 - Machine Learning Intern @VE Commercial Vehicles LTD.
-# Programming Languages
-- Java
+## Programming Languages
+- Java 
 - Python
 - C++
 - C
 - R
 - Javascript
-# Skills
+## Skills
 <p align="center">
   <img src="/assets/Github-Skills-Banner.png" alt="skills" width="650">
 </p>
