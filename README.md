@@ -1,5 +1,17 @@
 ![Banner](/assets/Github-Banner.png)
-### Hi there 👋
+- ### Upcoming software developer @WorkIndia
+- ## Previous roles
+  - ### Summer Undergraduate Research Intern @NYU Tandon School of Engineering
+  - ### React Native Developer @Point Zero Solutions
+  - ### Artificial Intelligence Intern @JumpStartNinja Technologies
+  - ### Machine Learning Intern @VE Commercial Vehicles LTD.
+# Programming Languages
+- Java
+- Python
+- C++
+- C
+- R
+- Javascript
 
 <!--
 **Harsh-Naicker/Harsh-Naicker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
